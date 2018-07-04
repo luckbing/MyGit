@@ -13,6 +13,10 @@ public class StringUtils {
 
     }
 
+    public void methodFour(){
+
+    }
+
     public void methodThree(){
 
     }
