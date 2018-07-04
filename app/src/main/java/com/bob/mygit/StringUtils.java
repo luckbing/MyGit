@@ -12,4 +12,8 @@ public class StringUtils {
     public void methodOne(){
 
     }
+
+    public void methodThree(){
+
+    }
 }
