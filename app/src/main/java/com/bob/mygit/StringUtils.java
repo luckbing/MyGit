@@ -8,4 +8,8 @@ public class StringUtils {
     public void methodTwo(){
 
     }
+
+    public void methodOne(){
+
+    }
 }
